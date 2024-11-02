@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body{
+  background: rgb(52,76,162);
+  background: linear-gradient(90deg, rgba(52,76,162,1) 0%, rgba(6,6,6,1) 35%, rgba(68,134,177,1) 100%);
+}
+
+.form{
+  background: rgb(52,76,162);
+  background: linear-gradient(90deg, rgba(52,76,162,1) 0%, rgba(164,72,176,1) 35%, rgba(68,134,177,1) 100%);
+  margin-top: 100px;
+  margin-left:300px ;
+  margin-right: 300px;
+  padding: 50px;
+  border-radius: 5px;
+  width: 200;
+
+}
